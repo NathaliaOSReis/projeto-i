@@ -1,0 +1,52 @@
+# Controle de versão
+.git
+.gitignore
+
+# Arquivos de ambiente
+.env
+
+# Documentação e imagens
+README.md
+images/
+*.md
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Cache Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Arquivos de IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Logs
+logs/
+*.log
+
+# Dados gerados durante execução
+postgres_data/
+mongo_data/
+

@@ -1,0 +1,49 @@
+# Arquivos de ambiente
+.env
+
+# Os arquivos CSV do repositório que não deviam ser comitados    
+input/*.csv
+
+# Diretórios de cache e logs
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Volumes Docker e dados gerados
+postgres_data/
+mongo_data/
+
+# Arquivos de configuração do IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
