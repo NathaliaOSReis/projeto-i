@@ -197,7 +197,7 @@ docker exec -it postgres_dw psql -U postgres -d pb_dw
 
 Este projeto demonstra a implementação de um processo ETL completo em ambiente containerizado, utilizando tecnologias modernas e seguindo boas práticas de engenharia de dados. A solução é escalável, manutenível e pode ser facilmente estendida para incluir novas fontes de dados ou métricas adicionais.
 
+## Responsável pelo projeto
 
-
-
-
+ | [<img loading="lazy" src="https://avatars.githubusercontent.com/u/101699095?v=4" width=115><br><sub>Nathalia Reis</sub>](https://github.com/NathaliaOSReis)
+| :---: | 
