@@ -31,9 +31,7 @@ projeto-i/
 
 O data warehouse implementado segue um modelo dimensional com as seguintes tabelas:
 
-<div align="center">
-  <img src="images/modelo_dimensional.png" alt="Modelo Dimensional" width="600">
-</div>
+![Modelo Dimensional](images/modelo_dimensional.png)
 
 
 ### Tabelas de Dimensão
