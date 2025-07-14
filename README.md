@@ -18,7 +18,6 @@ projeto-i/
 │   └── olist_products_dataset.csv
 ├── mongodb-init/            # Script de inicialização do MongoDB
 │   └── init.js              # Script para inicialização da coleção no MongoDB
-├── projeto-i/               # Diretório espelho do projeto (para organização)
 └── python_etl/              # Código Python para o ETL
     ├── etl.py               # Script principal de ETL
     ├── requirements.txt     # Dependências Python
