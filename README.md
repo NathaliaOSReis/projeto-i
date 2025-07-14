@@ -7,7 +7,6 @@ Este projeto implementa um processo ETL (Extract, Transform, Load) em ambiente c
 ```
 projeto-i/
 ├── docker-compose.yml       # Configuração dos serviços Docker
-├── .env                     # Variáveis de ambiente
 ├── images/                  # Imagens para documentação
 │   └── modelo_dimensional.png  # Diagrama do modelo dimensional
 ├── input/                   # Arquivos CSV de entrada
@@ -21,8 +20,7 @@ projeto-i/
 └── python_etl/              # Código Python para o ETL
     ├── etl.py               # Script principal de ETL
     ├── requirements.txt     # Dependências Python
-    ├── input/               # Link simbólico ou cópia dos dados de entrada
-    └── docker/              # Arquivos relacionados ao Docker
+     └── docker/              # Arquivos relacionados ao Docker
         └── Dockerfile       # Configuração da imagem Docker para Python
 ```
 
